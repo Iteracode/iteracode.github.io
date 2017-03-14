@@ -1,4 +1,4 @@
-# CDI Développeur / Développeuse Web
+# CDI Développeuse / Développeur Web
 
 Bienvenue à toi !
 
