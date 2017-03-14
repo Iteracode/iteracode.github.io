@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+#CDI Développeur / Développeuse Web
 
-You can use the [editor on GitHub](https://github.com/Iteracode/iteracode.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvenue à toi !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Créé en 2015 à Amiens, Iteracode est un studio de conseil et développement en mode Agile. 
 
-### Markdown
+Nous accompagnons nos clients (startups, entreprises et administrations) dans la conception et la réalisation de solutions web et mobiles innovantes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dans le cadre de notre croissance, nous souhaitons renforcer l’équipe (actuellement 4 personnes), nous cherchons donc une développeuse/un développeur comme toi pour nous rejoindre. Le contrat de travail est un CDI à 35 ou 39 heures par semaine (c’est toi qui choisi).
 
-```markdown
-Syntax highlighted code block
+A l’aise avec les langages PHP et JavaScript, tu travailleras en équipe sur nos différents projets (logiciels métiers, applications mobiles, e-commerce etc …). Tu participeras à la vie complète du projet : analyse de la demande, priorisation des fonctionnalités, conception, développement, test et suivi. 
 
-# Header 1
-## Header 2
-### Header 3
+La qualité du code est pour toi très importante et tu souhaites progresser ? Tu es motivé, tu as soif d’apprendre ? Tu aimes partager ce que tu sais ? Les défis ne te font pas peur ? Bienvenue !
 
-- Bulleted
-- List
+L’ADN Iteracode c’est : 
+-	Une entreprise libérée,
+-	Une forte culture Agile : l’équipe avance ensemble, par itération, sur les différents projets,
+-	Du temps pour l’innovation et l’amélioration continue.
 
-1. Numbered
-2. List
+Dans un cadre de travail agréable :
+-	Des bureaux situés en plein centre-ville d’Amiens (quartier St-Leu),
+-	Une équipe sympathique de passionnés, qui a envie de progresser chaque jour,
+-	Des incitations à donner des conférences ou à y assister ; des financements pour participer à des évènements intéressants (ex : Web2Day),
+-	Des horaires aménageables.
+-	Un Macbook air à ton arrivée (et un Nerf car ça peut toujours servir)
 
-**Bold** and _Italic_ and `Code` text
+Nous avons adopté les technologies suivantes :
+-	PHP -> Framework CakePHP
+-	Javascript -> React / React Native, Angular 1.x
+-	CMS - E-commerce -> Drupal, Magento
 
-[Link](url) and ![Image](src)
-```
+Enfin, la rémunération prévue pour ce poste est de 1600 € NET / Mois.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Tu peux répondre à cet offre en envoyant ce que tu veux par mail à : job@iteracode.fr
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Iteracode/iteracode.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+PS : De l’autodérision et de l’humour seraient un plus très appréciés.
